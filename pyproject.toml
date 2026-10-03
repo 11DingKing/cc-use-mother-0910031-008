@@ -1,0 +1,6 @@
+[project]
+name = "domain-contract-0910031-008"
+version = "0.1.0"
+description = "企业集团合并申报的领域约定与校验工具"
+requires-python = ">=3.11"
+dependencies = []
