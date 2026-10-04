@@ -4,5 +4,7 @@ __pycache__/
 .venv/
 .env
 *.sqlite3
+*.db
+data/
 dist/
 build/
